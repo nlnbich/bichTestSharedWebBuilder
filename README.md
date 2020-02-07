@@ -1,2 +1,0 @@
-# bichTestSharedWebBuilder
-Created with CodeSandbox
